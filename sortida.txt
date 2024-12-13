@@ -1,0 +1,38 @@
+ El volumen de la unidad C no tiene etiqueta.
+
+ Directorio de C:\Users\Rulox\Desktop
+
+13/12/2024  23:11    <DIR>          .
+13/12/2024  23:11    <DIR>          ..
+13/12/2024  18:26    <DIR>          1 trimestre
+11/12/2024  22:25    <DIR>          2N DAM
+02/10/2024  11:36     1.203.997.040 android-studio-2024.1.2.12-windows.exe
+13/12/2024  19:39    <DIR>          appapicoin
+25/09/2023  16:42             1.978 BlueJ.lnk
+11/12/2024  22:25    <DIR>          Casa
+07/10/2024  11:26               193 cat.rar
+04/10/2024  13:05             1.708 DataAcces.txt
+01/12/2024  20:08             2.136 Docker Desktop.lnk
+04/12/2024  13:32    <DIR>          example_http
+13/12/2024  20:58    <DIR>          Exercicis1PSP
+15/10/2024  11:55    <DIR>          FitnessCasesNoves
+13/12/2024  19:58    <DIR>          Flutter-CryptoApi-main
+13/12/2024  19:20       283.454.644 Flutter-CryptoApi-main.zip
+29/11/2024  15:31    <DIR>          fotosinterficies
+13/10/2024  06:35    <DIR>          GS3
+14/02/2022  14:33             2.357 IPFS Desktop.lnk
+04/08/2024  20:04             2.343 MongoDBCompass.lnk
+10/12/2024  10:52    <DIR>          Navidad
+02/10/2024  08:42                33 Notas.txt
+11/12/2024  22:22    <DIR>          Paucasesnoves
+09/12/2024  17:11             2.185 Postman.lnk
+14/10/2024  10:45    <DIR>          PracticaDART1
+11/12/2024  22:41    <DIR>          Practica_PSP
+13/11/2024  19:55    <DIR>          Procesos jars
+07/11/2024  18:35    <DIR>          SE PUEDE ENTREGAR
+26/01/2024  15:31             2.253 Sourcetree.lnk
+11/10/2024  12:54    <DIR>          tokengithub
+12/12/2024  13:33    <DIR>          TotAcabat
+10/03/2024  20:53    <DIR>          Webgame
+              11 archivos  1.487.466.870 bytes
+              21 dirs  45.680.197.632 bytes libres
