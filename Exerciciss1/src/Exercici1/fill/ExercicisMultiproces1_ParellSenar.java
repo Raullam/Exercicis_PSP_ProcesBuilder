@@ -7,7 +7,7 @@ public class ExercicisMultiproces1_ParellSenar {
             return;
         }
 
-        try {
+        try {//
             int numero = Integer.parseInt(args[0]);
             String resultado = (numero % 2 == 0) ? "Parell" : "Senar";
             System.out.println(resultado);
